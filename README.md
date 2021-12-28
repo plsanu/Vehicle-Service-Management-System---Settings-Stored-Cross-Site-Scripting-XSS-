@@ -12,8 +12,8 @@ Vehicle Service Management System - 'Settings' Stored Cross Site Scripting (XSS)
 ### CVE : 
 ### Google Dork: N/A
 ### Reference: 
-https://www.plsanu.com/vehicle-service-management-system-settings-stored-cross-site-scripting-xss
-https://github.com/plsanu/Vehicle-Service-Management-System-Settings-Stored-Cross-Site-Scripting-XSS
+- https://www.plsanu.com/vehicle-service-management-system-settings-stored-cross-site-scripting-xss
+- https://github.com/plsanu/Vehicle-Service-Management-System-Settings-Stored-Cross-Site-Scripting-XSS
 
 ### Steps to Reproduce:
 1. Login to the admin panel http://localhost/vehicle_service/admin
